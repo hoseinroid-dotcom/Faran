@@ -1,0 +1,28 @@
+2025-09-30 03:01:18,058 - __main__ - WARNING - PostgreSQL driver (psycopg2) not available - running in demo mode
+2025-09-30 03:01:18,058 - __main__ - INFO - Core dependencies are available
+2025-09-30 03:01:18,073 - __main__ - WARNING - Application icon not found
+2025-09-30 03:01:18,074 - utils.font_manager - WARNING - IRAN Sans font not found. Using system default font.
+2025-09-30 03:01:18,078 - utils.font_manager - INFO - Using system font: Segoe UI
+2025-09-30 03:01:18,080 - __main__ - INFO - Theme dark applied successfully
+2025-09-30 03:01:18,080 - __main__ - INFO - No translation file found, using default language
+2025-09-30 03:01:18,080 - database.database_manager - INFO - Running in demo mode (no database connection)
+2025-09-30 03:01:18,080 - __main__ - INFO - Database connected successfully
+2025-09-30 03:01:18,080 - database.database_manager - INFO - Demo mode: Table creation simulated
+2025-09-30 03:01:18,080 - __main__ - INFO - Database tables created/verified successfully
+2025-09-30 03:01:18,081 - __main__ - INFO - Application setup completed for Noor Gosteran Faran
+2025-09-30 03:01:18,081 - __main__ - INFO - Starting Noor Gosteran Faran Payroll System...
+2025-09-30 03:01:18,204 - __main__ - INFO - Login window displayed successfully
+2025-09-30 03:01:34,577 - ui.login_window - INFO - User admin logged in successfully
+2025-09-30 03:01:34,578 - __main__ - INFO - Attempting to show main window...
+2025-09-30 03:01:34,578 - __main__ - INFO - Closing login window...
+2025-09-30 03:01:34,589 - __main__ - INFO - Creating main window instance...
+2025-09-30 03:01:34,694 - ui.personnel_window - ERROR - Error loading personnel data: When calling fromgregorian(date=) the parameter should be a date like object.
+2025-09-30 03:01:36,000 - ui.attendance_window - ERROR - Error loading attendance data: 'date'
+2025-09-30 03:01:36,604 - ui.loans_window - ERROR - Error loading loans data: 'loan_amount'
+2025-09-30 03:01:37,221 - ui.advances_window - ERROR - Error loading advances data: 'advance_amount'
+2025-09-30 03:01:37,761 - ui.payroll_window - ERROR - Error loading payroll data: 'is_paid'
+2025-09-30 03:01:38,470 - __main__ - INFO - Showing main window...
+2025-09-30 03:01:38,518 - __main__ - INFO - Main window displayed successfully
+2025-09-30 03:01:54,238 - ui.main_window - INFO - Application closed by user
+2025-09-30 03:01:54,248 - __main__ - INFO - Application exited normally
+2025-09-30 03:01:54,249 - __main__ - INFO - Application cleanup completed
